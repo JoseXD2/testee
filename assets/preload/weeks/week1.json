@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Bopeebo",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "triple trouble pero en psych engine",
+	"weekName": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

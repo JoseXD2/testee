@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				655,
+				60
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "Desaparecer"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/metaldesaparece",
+	"position": [
+		350,
+		210
+	],
+	"healthicon": "metalsonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		78,
+		78
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

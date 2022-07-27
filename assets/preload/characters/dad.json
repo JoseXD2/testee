@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Beast_IDLE"
+		},
+		{
+			"offsets": [
+				94,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beast_LEFT"
+		},
+		{
+			"offsets": [
+				24,
+				-94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beast_DOWN"
+		},
+		{
+			"offsets": [
+				26,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beast_UP"
+		},
+		{
+			"offsets": [
+				-113,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hehe",
+			"indices": [],
+			"name": "Beast_LAUGH"
+		},
+		{
+			"offsets": [
+				-202,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beast_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		-100,
+		-1350
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		102,
+		255
+	],
+	"camera_position": [
+		50,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

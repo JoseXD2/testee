@@ -1,0 +1,130 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chaos",
+			"fleetway",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"cycles",
+			"soylent",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"endless",
+			"majin",
+			[
+				0,
+				13,
+				253
+			]
+		],
+		[
+			"endless-og",
+			"majin-og",
+			[
+				0,
+				13,
+				253
+			]
+		],
+		[
+			"Alejandro?",
+			"puchito",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				26,
+				113,
+				253
+			]
+		],
+		[
+			"Alejandro!?",
+			"puchito",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"round-a-bout",
+			"needlemouse",
+			[
+				160,
+				0,
+				215
+			]
+		],
+		[
+			"soulless",
+			"taildoll",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"sunshine",
+			"taildoll",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				26,
+				140,
+				253
+			]
+		],
+		[
+			"too-slow-encore",
+			"sonicexe",
+			[
+				0,
+				53,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

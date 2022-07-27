@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starveddesaparece.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="desaparece0000" x="0" y="0" width="149" height="126" frameX="-508" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0001" x="0" y="0" width="149" height="126" frameX="-452" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0002" x="0" y="0" width="149" height="126" frameX="-395" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0003" x="0" y="0" width="149" height="126" frameX="-339" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0004" x="0" y="0" width="149" height="126" frameX="-282" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0005" x="0" y="0" width="149" height="126" frameX="-226" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0006" x="0" y="0" width="149" height="126" frameX="-169" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0007" x="0" y="0" width="149" height="126" frameX="-113" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0008" x="0" y="0" width="149" height="126" frameX="-56" frameY="0" frameWidth="657" frameHeight="126"/>
+	<SubTexture name="desaparece0009" x="0" y="0" width="149" height="126" frameX="0" frameY="0" frameWidth="657" frameHeight="126"/>
+</TextureAtlas>

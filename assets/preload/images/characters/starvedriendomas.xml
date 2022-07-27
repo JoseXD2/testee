@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starvedriendomas.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Risa20000" x="0" y="0" width="141" height="124" frameX="0" frameY="-7" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20001" x="141" y="0" width="141" height="131" frameX="0" frameY="-1" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20002" x="0" y="0" width="141" height="124" frameX="0" frameY="-7" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20003" x="282" y="0" width="141" height="132"/>
+	<SubTexture name="Risa20004" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20005" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20006" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20007" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20008" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+	<SubTexture name="Risa20009" x="423" y="0" width="141" height="125" frameX="0" frameY="-6" frameWidth="141" frameHeight="132"/>
+</TextureAtlas>

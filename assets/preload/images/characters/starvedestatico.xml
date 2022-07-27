@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starvedestatico.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="secreto0000" x="0" y="0" width="159" height="150" frameX="0" frameY="-1" frameWidth="167" frameHeight="151"/>
+	<SubTexture name="secreto0001" x="159" y="0" width="163" height="150" frameX="0" frameY="-1" frameWidth="167" frameHeight="151"/>
+	<SubTexture name="secreto0002" x="322" y="0" width="167" height="143" frameX="0" frameY="-8" frameWidth="167" frameHeight="151"/>
+	<SubTexture name="secreto0003" x="489" y="0" width="161" height="151" frameX="0" frameY="0" frameWidth="167" frameHeight="151"/>
+</TextureAtlas>

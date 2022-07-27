@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dad_FreddyKW.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="831" width="481" height="737"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="846" y="0" width="392" height="785"/>
+	<SubTexture name="Dad Sing Note UP0000" x="422" y="0" width="420" height="823"/>
+	<SubTexture name="Dad idle dance0000" x="0" y="0" width="420" height="768"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="665" y="816" width="474" height="804"/>
+</TextureAtlas>

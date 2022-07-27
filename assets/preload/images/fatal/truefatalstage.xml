@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="truefatalstage.png">
+	<!-- Made with CSS sprites, Fuck you animate :imp: -->
+
+    <!-- Normal Animations -->
+
+	<SubTexture name="idle0000" x="10" y="10" width="721" height="354"/>
+</TextureAtlas>

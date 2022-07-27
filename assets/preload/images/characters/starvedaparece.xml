@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="starvedaparece.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aparece0000" x="0" y="0" width="158" height="149" frameX="0" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0001" x="0" y="0" width="158" height="149" frameX="-54" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0002" x="0" y="0" width="158" height="149" frameX="-109" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0003" x="0" y="0" width="158" height="149" frameX="-164" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0004" x="0" y="0" width="158" height="149" frameX="-219" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0005" x="0" y="0" width="158" height="149" frameX="-274" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0006" x="0" y="0" width="158" height="149" frameX="-329" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0007" x="0" y="0" width="158" height="149" frameX="-384" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0008" x="0" y="0" width="158" height="149" frameX="-439" frameY="0" frameWidth="653" frameHeight="149"/>
+	<SubTexture name="aparece0009" x="0" y="0" width="158" height="149" frameX="-494" frameY="0" frameWidth="653" frameHeight="149"/>
+</TextureAtlas>

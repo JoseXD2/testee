@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Eggman_Idle"
+		},
+		{
+			"offsets": [
+				241,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Eggman_Left"
+		},
+		{
+			"offsets": [
+				51,
+				-93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Eggman_Down"
+		},
+		{
+			"offsets": [
+				134,
+				238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Eggman_Up"
+		},
+		{
+			"offsets": [
+				-2,
+				168
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Eggman_Right"
+		},
+		{
+			"offsets": [
+				2,
+				203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Eggman_Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monster_Assets",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		100,
+		0
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

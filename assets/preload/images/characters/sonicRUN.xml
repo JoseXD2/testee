@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicRUN.png"><SubTexture name="sonicRUN idle0000" x="1332" y="1545" width="444" height="342" frameX="-207" frameY="-405" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN idle0001" x="2108" y="684" width="412" height="334" frameX="-242" frameY="-395" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN idle0002" x="2108" y="0" width="420" height="342" frameX="-231" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN up0000" x="395" y="1171" width="426" height="365" frameX="-207" frameY="-382" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN up0001" x="1693" y="0" width="415" height="354" frameX="-224" frameY="-375" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN up0002" x="0" y="1171" width="395" height="374" frameX="-219" frameY="-367" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN down0000" x="0" y="1545" width="444" height="348" frameX="-207" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN down0001" x="421" y="1893" width="422" height="326" frameX="-232" frameY="-403" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN down0002" x="0" y="1893" width="421" height="333" frameX="-231" frameY="-408" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN left0000" x="821" y="1171" width="428" height="358" frameX="-207" frameY="-389" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN left0001" x="1693" y="354" width="413" height="352" frameX="-226" frameY="-377" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN left0002" x="1325" y="0" width="368" height="378" frameX="-223" frameY="-363" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN right0000" x="444" y="1545" width="444" height="348" frameX="-207" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN right0001" x="2108" y="1018" width="411" height="330" frameX="-240" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN right0002" x="1249" y="1171" width="430" height="356" frameX="-231" frameY="-385" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0000" x="1693" y="706" width="215" height="210" frameX="-354" frameY="-531" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0001" x="2108" y="1678" width="216" height="211" frameX="-335" frameY="-510" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0002" x="2108" y="1678" width="216" height="211" frameX="-289" frameY="-453" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0003" x="2108" y="1678" width="216" height="211" frameX="-226" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0004" x="2108" y="1678" width="216" height="211" frameX="-171" frameY="-343" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0005" x="1693" y="706" width="215" height="210" frameX="-354" frameY="-531" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0006" x="2108" y="1678" width="216" height="211" frameX="-335" frameY="-510" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0007" x="2108" y="1678" width="216" height="211" frameX="-289" frameY="-453" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN jump0008" x="2108" y="1678" width="216" height="211" frameX="-226" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN speak0000" x="888" y="1545" width="444" height="348" frameX="-207" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN speak0001" x="2108" y="1348" width="420" height="330" frameX="-231" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN speak0002" x="2108" y="342" width="420" height="342" frameX="-231" frameY="-399" frameWidth="1078" frameHeight="1078" />
+<SubTexture name="sonicRUN shit...0000" x="0" y="0" width="1325" height="391" frameX="-718" frameY="-687" frameWidth="2400" frameHeight="1739" />
+<SubTexture name="sonicRUN shit...0001" x="0" y="391" width="1151" height="390" frameX="-892" frameY="-687" frameWidth="2400" frameHeight="1739" />
+<SubTexture name="sonicRUN shit...0002" x="0" y="781" width="968" height="390" frameX="-1075" frameY="-687" frameWidth="2400" frameHeight="1739" />
+</TextureAtlas>

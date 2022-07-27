@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metalaparece.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aparecer0000" x="0" y="0" width="262" height="223" frameX="0" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0001" x="0" y="0" width="262" height="223" frameX="-85" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0002" x="0" y="0" width="262" height="223" frameX="-171" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0003" x="0" y="0" width="262" height="223" frameX="-256" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0004" x="0" y="0" width="262" height="223" frameX="-342" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0005" x="0" y="0" width="262" height="223" frameX="-427" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0006" x="0" y="0" width="262" height="223" frameX="-513" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0007" x="0" y="0" width="262" height="223" frameX="-598" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0008" x="0" y="0" width="262" height="223" frameX="-684" frameY="0" frameWidth="1032" frameHeight="223"/>
+	<SubTexture name="aparecer0009" x="0" y="0" width="262" height="223" frameX="-769" frameY="0" frameWidth="1032" frameHeight="223"/>
+</TextureAtlas>

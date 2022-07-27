@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"too slow",
+			"sonicexe",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"you cant run",
+			"ycr",
+			[
+				0,
+				33,
+				133
+			]
+		],
+		[
+			"too slow encore",
+			"sonicexe",
+			[
+				0,
+				0,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

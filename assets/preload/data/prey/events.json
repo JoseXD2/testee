@@ -1,0 +1,319 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "prey",
+		"player1": "sonic1",
+		"player2": "TEST",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Flash",
+						"negro",
+						"3"
+					]
+				]
+			],
+			[
+				10957.5,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"starvedgf"
+					]
+				]
+			],
+			[
+				20800,
+				[
+					[
+						"Change Character",
+						"1",
+						"metalaparece"
+					]
+				]
+			],
+			[
+				21300,
+				[
+					[
+						"Change Character",
+						"1",
+						"metalsonic"
+					]
+				]
+			],
+			[
+				131000,
+				[
+					[
+						"Change Character",
+						"1",
+						"metaldesaparece"
+					]
+				]
+			],
+			[
+				131500,
+				[
+					[
+						"Change Character",
+						"1",
+						"test"
+					]
+				]
+			],
+			[
+				131800,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				131875,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time arround!",
+						""
+					],
+					[
+						"Play Animation",
+						"speak",
+						"bf"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134600,
+				[
+					[
+						"Play Animation",
+						"confused",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"starvedaparece"
+					]
+				]
+			],
+			[
+				135100,
+				[
+					[
+						"Change Character",
+						"1",
+						"starvedestatico"
+					]
+				]
+			],
+			[
+				135400,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!",
+						""
+					],
+					[
+						"Play Animation",
+						"HeyRedHead",
+						"bf"
+					]
+				]
+			],
+			[
+				136400,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						""
+					]
+				]
+			],
+			[
+				138500,
+				[
+					[
+						"Lyrics",
+						"You don't even know your fate, hedgehog. . .",
+						"ff0000"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Change Character",
+						"1",
+						"starvedeggman"
+					]
+				]
+			],
+			[
+				142900,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*",
+						"ff0000"
+					],
+					[
+						"Play Animation",
+						"confused",
+						"bf"
+					],
+					[
+						"Change Character",
+						"1",
+						"starvedriendo"
+					]
+				]
+			],
+			[
+				144842.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"starvedriendomas"
+					]
+				]
+			],
+			[
+				151500,
+				[
+					[
+						"Change Character",
+						"1",
+						"starvedeggman"
+					]
+				]
+			],
+			[
+				152100,
+				[
+					[
+						"Change Character",
+						"bf",
+						"sonicrun"
+					]
+				]
+			],
+			[
+				152130,
+				[
+					[
+						"Play Animation",
+						"jump",
+						"bf"
+					]
+				]
+			],
+			[
+				152300,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152400,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				284300,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Lyrics",
+						"Man, you really like scrambling your own plans don't' cha-",
+						""
+					]
+				]
+			],
+			[
+				284400,
+				[
+					[
+						"Play Animation",
+						"speak",
+						"bf"
+					]
+				]
+			],
+			[
+				286700,
+				[
+					[
+						"Play Animation",
+						"shit",
+						"bf"
+					]
+				]
+			],
+			[
+				286982.5,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					],
+					[
+						"Image Flash",
+						"negro",
+						"999"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "TEST",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "prey"
+	}
+}

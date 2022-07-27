@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonicobservando.png"><SubTexture name="Sonic idle0000" x="0" y="0" width="35" height="39" frameX="0" frameY="0" frameWidth="35" frameHeight="39" />
+<SubTexture name="Sonic idle0001" x="35" y="0" width="35" height="40" frameX="0" frameY="0" frameWidth="35" frameHeight="40" />
+<SubTexture name="Sonic idle0002" x="70" y="0" width="34" height="39" frameX="0" frameY="0" frameWidth="34" frameHeight="39" />
+<SubTexture name="Sonic idle0003" x="0" y="40" width="35" height="40" frameX="0" frameY="0" frameWidth="35" frameHeight="40" />
+</TextureAtlas>
